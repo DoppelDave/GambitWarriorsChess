@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Users\\Davis\\Documents\\Unreal Projects\\GambitWarriorsChess\\GambitWarriors\\Source\\GambitWarriors\\GambitWarriors.Build.cs",
-		"C:\\Users\\Davis\\Documents\\Unreal Projects\\GambitWarriorsChess\\GambitWarriors\\Source\\GambitWarriors.Target.cs",
-		"C:\\Users\\Davis\\Documents\\Unreal Projects\\GambitWarriorsChess\\GambitWarriors\\Source\\GambitWarriorsEditor.Target.cs"
-	],
-	"EngineVersion": "5.4.1"
-}
