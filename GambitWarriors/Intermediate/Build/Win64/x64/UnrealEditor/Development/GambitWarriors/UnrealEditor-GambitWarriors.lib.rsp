@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GambitWarriors.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\d.babuczki\Documents\Unreal Projects\GambitWarriors\Intermediate\Build\Win64\x64\GambitWarriorsEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\d.babuczki\Documents\Unreal Projects\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\GambitWarriors.init.gen.cpp.obj"
+"C:\Users\d.babuczki\Documents\Unreal Projects\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\UBoardInterface.gen.cpp.obj"
+"C:\Users\d.babuczki\Documents\Unreal Projects\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\GambitWarriors.cpp.obj"
+"C:\Users\d.babuczki\Documents\Unreal Projects\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\UBoardInterface.cpp.obj"
+"C:\Users\d.babuczki\Documents\Unreal Projects\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\Default.rc2.res"
+/OUT:"C:\Users\d.babuczki\Documents\Unreal Projects\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\UnrealEditor-GambitWarriors.lib"

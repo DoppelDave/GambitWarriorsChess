@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\d.babuczki\\documents\\unreal projects\\gambitwarriors\\intermediate\\build\\win64\\unrealeditor\\inc\\gambitwarriors\\uht\\uboardinterface.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\d.babuczki\\documents\\unreal projects\\gambitwarriors\\intermediate\\build\\win64\\x64\\gambitwarriorseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\d.babuczki\\documents\\unreal projects\\gambitwarriors\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gambitwarriors\\definitions.gambitwarriors.h",
+            "c:\\users\\d.babuczki\\documents\\unreal projects\\gambitwarriors\\source\\gambitwarriors\\uboardinterface.h",
+            "c:\\users\\d.babuczki\\documents\\unreal projects\\gambitwarriors\\intermediate\\build\\win64\\unrealeditor\\inc\\gambitwarriors\\uht\\uboardinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
