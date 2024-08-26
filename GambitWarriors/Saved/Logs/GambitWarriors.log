@@ -1354,3 +1354,12 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.08.26-22.15.24:772][708]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
 [2024.08.26-22.15.24:822][708]LogExit: Preparing to exit.
 [2024.08.26-22.15.27:591][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.08.26-22.15.36:045][708]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.08.26-22.15.37:904][708]LogExit: Editor shut down
+[2024.08.26-22.15.37:906][708]LogExit: Transaction tracking system shut down
+[2024.08.26-22.15.45:080][708]LogExit: Object subsystem successfully closed.
+[2024.08.26-22.15.45:133][708]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.08.26-22.15.55:928][708]MemoryProfiler: Shutdown
+[2024.08.26-22.15.55:955][708]NetworkingProfiler: Shutdown
+[2024.08.26-22.15.55:955][708]LoadingProfiler: Shutdown
+[2024.08.26-22.15.55:958][708]TimingProfiler: Shutdown
