@@ -12,15 +12,15 @@ ABoardBase::ABoardBase()
 	
 	RootComponent = CreateDefaultSubobject<USceneComponent>(RootName);
 	InitArray();
-	UE_LOG(LogTemp, Warning, TEXT("BaseChessBoard initialized"))
+	UE_LOG(LogTemp, Warning, TEXT("ChessBoard initialized"))
 }
 
 // Called when the game starts or when spawned
 void ABoardBase::BeginPlay()
 {
 	Super::BeginPlay();
+
 	
-	GenerateFields();
 }
 
 // Called every frame
@@ -51,6 +51,7 @@ void ABoardBase::InitArray(void)
 /// <param name=""></param>
 void ABoardBase::GenerateFields(void)
 {
+	UE_LOG(LogTemp, Warning, TEXT("Board generating Fields"));
 	// Spawn Fields 8x8
 	for (int32 Col = NullIndex; Col < Size; Col++)
 	{

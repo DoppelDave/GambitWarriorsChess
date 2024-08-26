@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\davis\\documents\\unreal projects\\gambitwarriorschess\\gambitwarriors\\source\\gambitwarriors\\private\\chessfield.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\davis\\documents\\unreal projects\\gambitwarriorschess\\gambitwarriors\\intermediate\\build\\win64\\x64\\gambitwarriorseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\davis\\documents\\unreal projects\\gambitwarriorschess\\gambitwarriors\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gambitwarriors\\definitions.gambitwarriors.h",
+            "c:\\users\\davis\\documents\\unreal projects\\gambitwarriorschess\\gambitwarriors\\source\\gambitwarriors\\public\\chessfield.h",
+            "c:\\users\\davis\\documents\\unreal projects\\gambitwarriorschess\\gambitwarriors\\intermediate\\build\\win64\\unrealeditor\\inc\\gambitwarriors\\uht\\chessfield.generated.h",
+            "d:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

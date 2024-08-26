@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\davis\\documents\\unreal projects\\gambitwarriorschess\\gambitwarriors\\intermediate\\build\\win64\\unrealeditor\\inc\\gambitwarriors\\uht\\actorbuilder.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\davis\\documents\\unreal projects\\gambitwarriorschess\\gambitwarriors\\intermediate\\build\\win64\\x64\\gambitwarriorseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\davis\\documents\\unreal projects\\gambitwarriorschess\\gambitwarriors\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gambitwarriors\\definitions.gambitwarriors.h",
+            "c:\\users\\davis\\documents\\unreal projects\\gambitwarriorschess\\gambitwarriors\\source\\gambitwarriors\\public\\actorbuilder.h",
+            "d:\\unreal\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\unreal\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\unreal\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "d:\\unreal\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\unreal\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\unreal\\ue_5.4\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\users\\davis\\documents\\unreal projects\\gambitwarriorschess\\gambitwarriors\\intermediate\\build\\win64\\unrealeditor\\inc\\gambitwarriors\\uht\\actorbuilder.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

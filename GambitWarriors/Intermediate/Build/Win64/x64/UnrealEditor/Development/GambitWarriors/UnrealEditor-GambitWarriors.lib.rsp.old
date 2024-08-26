@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GambitWarriors.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\GambitWarriorsEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\ActorBuilder.gen.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\BoardBase.gen.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\BoardInterface.gen.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\ChessField.gen.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\FigureBase.gen.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\GambitWarriors.init.gen.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\RenderedBoard.gen.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\GambitWarriors.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\ActorBuilder.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\ActorUtils.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\BoardInterface.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\ChessField.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\FigureBase.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\RenderedBoard.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\BoardBase.cpp.obj"
+"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\Default.rc2.res"
+/OUT:"C:\Users\Davis\Documents\Unreal Projects\GambitWarriorsChess\GambitWarriors\Intermediate\Build\Win64\x64\UnrealEditor\Development\GambitWarriors\UnrealEditor-GambitWarriors.lib"
