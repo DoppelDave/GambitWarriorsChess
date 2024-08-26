@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GambitWarriors",
+			"Path": "..\\Source\\GambitWarriors.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GambitWarriorsEditor",
+			"Path": "..\\Source\\GambitWarriorsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
